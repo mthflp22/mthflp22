@@ -11,7 +11,7 @@
 - 💼 Trabalho na área de automação e informática
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Atualmente aprendendo **Next.js**, **Tailwind**, **Prisma**, e mais...
-- ⚙️ Gosto de projetos com **Raspberry pi-nto**, IA local, e automação residencial
+- ⚙️ Gosto de projetos com **Raspberry pi**, IA local, e automação residencial
 
 ---
 
