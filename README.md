@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Matheus Salvador 👋</h1>
+<h1 align="center">Olá, eu sou Matheus Salvador 👋</h1>
 
 <p align="center">
   Desenvolvedor Frontend 💻 | Apaixonado por tecnologia 🔧 | Estudante de ADS 🎓
@@ -38,4 +38,4 @@
 ### 📫 Me encontre por aí:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/matheusalvador22/)
