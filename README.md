@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Matheus Salvador 👋</h1>
 
 <p align="center">
-  Desenvolvedor Frontend 💻 | Apaixonado por tecnologia 🔧 | Estudante de ADS 🎓
+  Desenvolvedor 💻 | Apaixonado por tecnologia 🔧 | Estudante de ADS 🎓
 </p>
 
 ---
